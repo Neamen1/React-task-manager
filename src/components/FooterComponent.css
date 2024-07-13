@@ -1,0 +1,10 @@
+.footer {
+    background-color: #2C3E50; /* Dark shade of blue */
+    color: white;
+    padding: 10px;
+    text-align: center;
+    position:fixed;
+    bottom:0;
+    width:100%;
+ 
+  }  

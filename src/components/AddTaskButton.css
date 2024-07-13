@@ -1,0 +1,16 @@
+.add-task-button {
+    background-color: #4CAF50; /* Зелений колір */
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    cursor: pointer;
+    border-radius: 50%; /* Кругла форма */
+    position: fixed;
+    right: 10%;
+    bottom: 10%;
+    z-index: 2;
+  }
+  

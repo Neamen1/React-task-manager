@@ -1,0 +1,81 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Update Website",
+      "description": "Update the homepage to include header.",
+      "status": "in progress",
+      "progress": 45
+    },
+    {
+      "id": 2,
+      "title": "Prepare Report Prepare Report  Prepare Report  Prepare Report  Prepare Report  Prepare Report  Prepare Report  Prepare Report  Prepare Report  Prepare Report  Prepare Report  Prepare Report  Prepare Report  Prepare Report  Prepare Report  Prepare Report  Prepare Report  Prepare Report ",
+      "description": "Prepare the report for upcoming practical work.Prepare the report for upcoming practical work.Prepare the report for upcoming practical work.Prepare the report for upcoming practical work.he report for upcoming practical work.Prepare the report for upcoming practical work.Prepare the report for upcoming practical work.Prepare the report for upcoming practical work.he report for upcoming practical work.Prepare the report for upcoming practical work.Prepare the report for upcoming practical work.Prepare the report for upcoming practical work.he report for upcoming practical work.Prepare the report for upcoming practical work.Prepare the report for upcoming practical work.Prepare the report for upcoming practical work.he report for upcoming practical work.Prepare the report for upcoming practical work.Prepare the report for upcoming practical work.Prepare the report for upcoming practical work.he report for upcoming practical work.Prepare the report for upcoming practical work.Prepare the report for upcoming practical work.Prepare the report for upcoming practical work.",
+      "status": "draft",
+      "progress": 10
+    },
+    {
+      "id": 3,
+      "title": "Email Teacher",
+      "description": "Send your work to a teacher.",
+      "status": "done",
+      "progress": 100
+    },
+    {
+      "id": 4,
+      "title": "Visit lecture on Parallel Computing",
+      "description": "Plan your time to get on lecture in time",
+      "status": "in progress",
+      "progress": 75
+    },
+    {
+      "id": 5,
+      "title": "Software Update",
+      "description": "Apply the latest software updates to the computer.",
+      "status": "done",
+      "progress": 100
+    },
+    {
+      "id": 6,
+      "title": "Do React labs and defend them",
+      "description": "Review your work and schedule a meeting.",
+      "status": "in progress",
+      "progress": 90
+    },
+    {
+      "id": 7,
+      "title": "Project team meeting",
+      "description": "Organize a team meeting to discuss project progress and roadblocks.",
+      "status": "in progress",
+      "progress": 30
+    },
+    {
+      "id": 8,
+      "title": "Sleep well",
+      "description": "Go to sleep in time for a month in a row.",
+      "status": "in progress",
+      "progress": 60
+    },
+    {
+      "id": 9,
+      "title": "Walk 90km in a month",
+      "description": "Walk 3km daily.",
+      "status": "in progress",
+      "progress": 20
+    },
+    {
+      "id": 10,
+      "title": "Learn Chinese",
+      "description": "-",
+      "status": "draft",
+      "progress": 0
+    },
+    {
+      "id": 11,
+      "title": "Get a driving license",
+      "description": "Attend course in driving school",
+      "status": "done",
+      "progress": 100
+    }
+  ]
+}
