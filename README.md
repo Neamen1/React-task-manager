@@ -1,4 +1,4 @@
-# React-task-manager
+# React: Task manager
 
 Welcome to the **React Task Manager** project! This is a simple and effective task management application designed with **React.js**, implementing a reactive design that allows users to manage their tasks in three categories: **Draft**, **In Progress**, and **Done**.
 
